@@ -1,4 +1,4 @@
-import fairsharer
+from fairsharer import fair_sharer
 
 def test_fair_sharer():
     #Test 1:
